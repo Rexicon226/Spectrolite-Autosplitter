@@ -1,8 +1,6 @@
 # Spectrolite-Autosplitter
-An autosplitter for Spectrolite.
 
-To use this autsplitter as of 11/25/2021 you need to have specific splits enabled.
-The timer will not stop without these. They are in the repository. 
+## To use this autsplitter as of 11/25/2021 you need to have specific splits enabled. The timer will not stop without these. They are in the repository. 
 
 # How to use:
 
