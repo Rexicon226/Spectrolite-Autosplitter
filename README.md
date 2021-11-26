@@ -1,4 +1,4 @@
-# Spectrolite-Autosplitter
+# Spectrolite Autosplitter
 
 ## If you see this message then to use this autosplitter you need to have specific splits enabled. The timer will not stop without these. Read below:
 
