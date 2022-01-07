@@ -1,7 +1,7 @@
 state("Spectrolite-Win64-Shipping")
 {
     int portalNumber: 0x041C75A8, 0x58, 0x200;
-    int loadingScreen: 0x041C4728, 0x8, 0x140;
+    int loadingScreen: 0x041C6728, 0x8, 0x140;
 }
 
 start
