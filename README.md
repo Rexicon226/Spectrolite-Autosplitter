@@ -23,4 +23,4 @@ The timer will start/stop when the game closes
 Sometimes the timer does not start, this is fixible by restarting the save.
 
 # Spectrolite:
-Spectrolite is a challenging first-person platformer set in futuristic environments. Combine parkouring with powerful abilities, test your skills in fast paced timed challenges, and follow the call of a mysterious specter while traveling through a ruined world. Would highly recommend this **[game](https://store.steampowered.com/app/1694880/Spectrolite/)**. [Join the Discord Server](https://discord.gg/Zb6vD2DUPf). Message me on Discord Sinon🎄#6352 if there are any problems or bugs and I will fix ASAP.
+Spectrolite is a challenging first-person platformer set in futuristic environments. Combine parkouring with powerful abilities, test your skills in fast paced timed challenges, and follow the call of a mysterious specter while traveling through a ruined world. Would highly recommend this **[game](https://store.steampowered.com/app/1694880/Spectrolite/)**. [Join the Discord Server](https://discord.gg/Zb6vD2DUPf). Message me on Discord Sinon#6352 if there are any problems or bugs and I will fix ASAP.
